@@ -1,7 +1,7 @@
 # KAIRENJ-portfolio
 A collection of my SQL and Python projects for data analysis
 
-# 👋 Hi, I'm [Your Name] - Data Analyst Portfolio
+# 👋 Hi, I'm Kairen Jiang - Data Analyst Portfolio
 
 ## 🎓 About Me
 I'm a recent Applied Mathematics graduate passionate about transforming raw data into actionable insights. This repository showcases my skills in SQL and Python through practical projects.
